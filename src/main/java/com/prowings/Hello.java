@@ -10,4 +10,8 @@ public class Hello {
 	public void greet() {
 		System.out.println("Hello!!!Greetings!!!");
 	}
+	
+	public void new1() {
+		System.out.println("New-methods");
+	}
 }
