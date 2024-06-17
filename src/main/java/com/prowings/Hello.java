@@ -15,7 +15,13 @@ public class Hello {
 		System.out.println("New-methods");
 	}
 	
+
 	public void new2() {
 		System.out.println("New2-methods");
+	}
+	
+	public void welcome() {
+		System.out.println("Welcome.....");
+
 	}
 }
